@@ -15,8 +15,6 @@
 - **HTML5** – Markup that keeps it structured  
 - **CSS3** – Styling with 💅  
 - **JavaScript** – A lil’ interactivity magic  
-- **Bootstrap / Tailwind** (if used) – For layout & responsiveness  
-- **[Optional] React.js** – If your site is dynamic or component-based
 
 ---
 
@@ -32,15 +30,5 @@
 
 ## 📸 Screenshots
 
-> _Drop screenshots of your portfolio website here_  
-> _(Bonus points: mobile + desktop view)_
+![photo-1531297484001-80022131f5a1](https://github.com/user-attachments/assets/13a77e6c-c792-4c42-a2df-62bf066be70d)
 
----
-
-## 📌 Getting Started (For Nerds Like Me Who Clone Repos)
-To run this locally:
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-# Just open index.html in your browser

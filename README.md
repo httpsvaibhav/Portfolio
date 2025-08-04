@@ -6,7 +6,7 @@
 ---
 
 ## 🔗 Live Demo
-🌐 [Visit My Portfolio](https://yourusername.github.io/your-repo-name/)  
+🌐 [Visit My Portfolio](https://httpsvaibhav.github.io/portfolio/)  
 (Replace with your actual GitHub Pages URL)
 
 ---

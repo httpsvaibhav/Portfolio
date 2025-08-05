@@ -6,7 +6,7 @@
 ---
 
 ## 🔗 Live Demo
-🌐 [Visit My Portfolio](https://httpsvaibhav.github.io/portfolio/)  
+🌐 https://portfolio-eight-rust-03ogi3wb7j.vercel.app/  
 (Replace with your actual GitHub Pages URL)
 
 ---

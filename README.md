@@ -6,8 +6,8 @@
 ---
 
 ## 🔗 Live Demo
-🌐 https://portfolio-eight-rust-03ogi3wb7j.vercel.app/  
-(Replace with your actual GitHub Pages URL)
+🌐 https://portfolio-eight-rust-03ogi3wb7j.vercel.app/
+
 
 ---
 

@@ -29,6 +29,6 @@
 ---
 
 ## 📸 Screenshots
+<img width="1326" height="772" alt="Screenshot 2025-08-06 023456" src="https://github.com/user-attachments/assets/bfa020df-0eb5-48b8-bab3-8a11dbbca2e0" />
 
-![photo-1531297484001-80022131f5a1](https://github.com/user-attachments/assets/13a77e6c-c792-4c42-a2df-62bf066be70d)
 
